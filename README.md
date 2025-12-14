@@ -1,5 +1,5 @@
-## Hi there 👋
-# 👋 Hi, I'm Swayam Srivastava
+## Hi there 
+#  Hi, I'm Swayam Srivastava
 
 ## Full-Stack Developer | React • Node.js • AI/ML • MERN Stack
 
